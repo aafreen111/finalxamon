@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="UTF-8">
-  <title>#1529 - Image Hover</title>
+  <title>Options</title>
 
 
   <link rel='stylesheet' href='https://www.littlesnippets.net/css/codepen-result.css'>
