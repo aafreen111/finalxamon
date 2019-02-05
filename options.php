@@ -30,7 +30,7 @@ session_start();
     <!-- Slide -->
     <section class="velo-slide">
       <!-- Pretitle Hint -->
-      <span class="velo-slider__hint"><span><span>Graphics Slide</span></span></span> <!-- Slide BG -->
+      <span class="velo-slider__hint"><span><span>Options</span></span></span> <!-- Slide BG -->
       <div class="velo-slide__bg">
         <!-- Borders -->
         <span class="border"><span></span></span> <!-- Img -->
@@ -39,9 +39,8 @@ session_start();
 
       <!-- Header -->
       <header class="velo-slide__header">
-        <h3 class="velo-slide__title"><span class="ohm"><span>Our</span></span><span class="ohm"><span>Services</span></span></h3>
+        <h3 class="velo-slide__title"><span class="ohm"><span>Welcome</span></span></h3>
         <p class="velo-slide__text"><span class="ohm"><span>Scroll Down</span></span></p>
-        <span class="velo-slide__btn"><a class="btn-draw btn--white" href="#"><span class="btn-draw__text"><span>View Work</span></span></a></span>
       </header>
     </section>
 
@@ -65,18 +64,20 @@ session_start();
       </header>
     </section>
 
-    <!-- Slide -->
+
+<!--
+    <!-- Slide
     <section class="velo-slide">
-      <!-- Pretitle Hint -->
+      <!-- Pretitle Hint -
       <span class="velo-slider__hint"><span><span>What's up Playas</span></span></span>
-      <!-- Slide BG -->
+      <!-- Slide BG -
       <div class="velo-slide__bg">
-        <!-- Borders -->
-        <span class="border"><span></span></span> <!-- Img -->
+        <!-- Borders -
+        <span class="border"><span></span></span> <!-- Img -
         <figure class="velo-slide__figure" style="background-image: url(img/film.png);"></figure>
       </div>
 
-      <!-- Header -->
+      <!-- Header -
       <header class="velo-slide__header">
         <h3 class="velo-slide__title"><span class="oh"><span>Film</span></span><span class="oh"><span></span></span></h3>
         <p class="velo-slide__text"><span class="oh"><span>The here slider interaction thing is using animation performance.</span></span></p>
@@ -84,18 +85,18 @@ session_start();
       </header>
     </section>
 
-    <!-- Slide -->
+    <!-- Slide -
     <section class="velo-slide">
-      <!-- Pretitle Hint -->
+      <!-- Pretitle Hint -
       <span class="velo-slider__hint"><span><span>What's up Playas</span></span></span>
-      <!-- Slide BG -->
+      <!-- Slide BG -
       <div class="velo-slide__bg">
-        <!-- Borders -->
-        <span class="border"><span></span></span> <!-- Img -->
+        <!-- Borders -
+        <span class="border"><span></span></span> <!-- Img --
         <figure class="velo-slide__figure" style="background-image: url(img/audio.png);"></figure>
       </div>
 
-      <!-- Header -->
+      <!-- Header --
       <header class="velo-slide__header">
         <h3 class="velo-slide__title"><span class="oh"><span>Audio</span></span><span class="oh"><span></span></span></h3>
         <p class="velo-slide__text"><span class="oh"><span>The here slider interaction animation performance.</span></span></p>
@@ -104,26 +105,26 @@ session_start();
     </section>
 
 
-    <!-- Slide - with Video -->
+    <!-- Slide - with Video --
     <section class="velo-slide">
-      <!-- Pretitle Hint -->
+      <!-- Pretitle Hint --
       <span class="velo-slider__hint"><span><span>Urban Influence</span></span></span>
-      <!-- Slide BG -->
+      <!-- Slide BG --
       <div class="velo-slide__bg">
-        <!-- Borders -->
-        <span class="border"><span></span></span> <!-- Img -->
+        <!-- Borders --
+        <span class="border"><span></span></span> <!-- Img --
         <figure class="velo-slide__figure" style="background-image: url(img/vr.png);"></figure>
         <div class="velo-slide__vid-wrap">
           <video autoplay="" class="velo-slide__vid" loop="" poster="">
             <source src="http://uiclients.com/assets/videos/ui-chaun.mp4" type="video/mp4"> Wait, are you still using IE? Bruv. Go get Chrome, or kick rocks.</video>
         </div>
-      </div><!-- Header -->
+      </div><!-- Header --
       <header class="velo-slide__header">
         <h3 class="velo-slide__title"><span class="oh"><span>Augmented Reality</span></span><span class="oh"><span>Virtual Reality</span></span></h3>
         <p class="velo-slide__text"><span class="oh"><span>Just another slide again.</span></span></p>
         <span class="velo-slide__btn"><a class="btn-draw btn--white" href="#"><span class="btn-draw__text"><span>View Project</span></span></a></span>
       </header>
-    </section>
+    </section>-->
 
 
     <!-- Slides Nav -->
